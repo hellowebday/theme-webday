@@ -1,0 +1,15 @@
+{
+  "name": "theme-webday",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Webday Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/hellowebday/theme-webday",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
